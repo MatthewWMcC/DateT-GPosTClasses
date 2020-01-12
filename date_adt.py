@@ -1,9 +1,3 @@
-## @file date_adt.py
-#  @author First and Last Name
-#  @brief ?
-#  @date ?
-
-## @brief An ADT ...
 
 def isLeap(ye):
     if (ye % 4 == 0 and ye % 100 != 0)  or ye % 400 == 0:
@@ -11,10 +5,6 @@ def isLeap(ye):
     else:
           return False 
 class DateT:
-
-  ## @brief ?
-  #  @details ?
-  #  @param m ...
 
   
   def __init__(self, d, m, y):
