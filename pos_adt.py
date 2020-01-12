@@ -1,7 +1,4 @@
-## @file pos_adt.py
-#  @author First and Last Name
-#  @brief ?
-#  @date ?
+
 from __future__ import absolute_import
 import math
 from date_adt import DateT
